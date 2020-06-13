@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30210.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-Cosmos-DB-MongoDB-API", "Example-Cosmos-DB-MongoDB-API.csproj", "{9F3EEEF4-29C9-4DF8-B9FC-94FD7A516CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F3EEEF4-29C9-4DF8-B9FC-94FD7A516CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3EEEF4-29C9-4DF8-B9FC-94FD7A516CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3EEEF4-29C9-4DF8-B9FC-94FD7A516CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3EEEF4-29C9-4DF8-B9FC-94FD7A516CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AD61E65-75A3-41A5-902C-1CEE0F9645E0}
+	EndGlobalSection
+EndGlobal
